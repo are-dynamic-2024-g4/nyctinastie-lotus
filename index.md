@@ -1,25 +1,22 @@
-# Nom du projet
+# Nyctinastie
 
-Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
-
+La nyctinastie est une forme de mouvement nastic, également appelé le mouvement de veille et de sommeil, dans le cadre de notre étude nous nous concentrons sur les fleurs.
+Notre objectif est d'étudier la réaction des fleurs face à ce  phénomène et de mieux comprendre les mécanismes biologiques et environnementaux qui influencent ces mouvements nocturnes.
 ## English version
 
-Un titre et un résumé en anglais qui reprennent le titre et le résumé en français, mais en anglais pour attirer une audience internationale sur vos travaux !
+Nyctinasty, also known as sleep movement, is a fascinating phenomenon that affects many floral species.In our study, we focus on the flower's reactions to this phenomenon. Our goal is to better understand the biological and environmental mechanisms that influence these nocturnal movements.
 
 ## Présentation de l'équipe
 
-|(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
-|-----|--|--|--|
-| P. Bismuth| J. Doe | A. Onyme  | N. Nescio  |
+| Ait Taleb Rachel | Boukrif Liza | Lalaoui Lena| Manegabe David |
 
 
 ## Description synthétique du projet
 
-**Problématique :** 
+**Problématique :** Comment les facteurs externes influencent les mécanismes de la nyctinastie ?
 
-**Hypothèse principale :**
+**Hypothèse principale :** La nyctinastie est un système adaptatif finement ajusté par l'environnement et ses facteurs or 
 
-**Hypothèses secondaires :** 
 
 **Objectifs :**
 
