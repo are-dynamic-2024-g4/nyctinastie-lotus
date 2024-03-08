@@ -15,7 +15,7 @@ Nyctinasty, also known as sleep movement, is a fascinating phenomenon that affec
 
 **Problématique :** Comment les facteurs externes influencent les mécanismes de la nyctinastie ?
 
-**Hypothèse principale :** La nyctinastie est un système adaptatif finement ajusté par l'environnement et ses facteurs or 
+**Hypothèse principale :** La nyctinastie est un système adaptatif finement ajusté par l'environnement et ses facteurs or la variation de ces facteurs influence l'ouverture et la fermeture des fleurs .
 
 
 **Objectifs :**
