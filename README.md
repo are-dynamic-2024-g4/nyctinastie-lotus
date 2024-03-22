@@ -6,10 +6,10 @@ Dans le cadre de notre étude nous nous concentrons sur les fleurs.
 ## Problématique:
 
 ## Facteurs: 
-  **Luminosité: ** perceptions des variations de luminosité pendant le jour et la nuit grâce à des photorécepteurs
-  **Humidité  **
-  **Variétés de plantes: ** Les plantes réagissent différemment due à leur génétique
-  **Saisonnalité: ** Ceci est intrinsèquement lié à la température
+  **Luminosité:** perceptions des variations de luminosité pendant le jour et la nuit grâce à des photorécepteurs
+  **Humidité**
+  **Variétés de plantes:** Les plantes réagissent différemment due à leur génétique
+  **Saisonnalité:** Ceci est intrinsèquement lié à la température
 
 
 ## Les fleurs modélisées:
