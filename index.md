@@ -1,6 +1,6 @@
 # Nyctinastie
 
-La nyctinastie est une forme de mouvement nastic, également appelé le mouvement de veille et de sommeil, dans le cadre de notre étude nous nous concentrons sur les fleurs.
+La Nyctinastie est une forme de mouvement nastic, également appelé le mouvement de veille et de sommeil, dans le cadre de notre étude nous nous concentrons sur les fleurs.
 Notre objectif est d'étudier la réaction des fleurs face à ce  phénomène et de mieux comprendre les mécanismes biologiques et environnementaux qui influencent ces mouvements nocturnes.
 ## English version
 
@@ -18,9 +18,8 @@ Nyctinasty, also known as sleep movement, is a fascinating phenomenon that affec
 **Hypothèse principale :** La nyctinastie est un système adaptatif finement ajusté par l'environnement et ses facteurs or la variation de ces facteurs influence l'ouverture et la fermeture des fleurs .
 
 
-**Objectifs :**
+**Objectifs :** Modeliser le phénomène de la *Nyctinastie* sur differentes fleurs en fonction des facteurs 
 
-**Critère(s) d'évaluation :**
 
 ## Présentation structurée des résultats
 
