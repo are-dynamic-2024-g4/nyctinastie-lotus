@@ -1,9 +1,12 @@
 ## Travail effectué 
 
 ### Semaine 1
-Recherche documentaire sur les fleurs sur lesquelles portera notre étude.
+Lors de cette première semaine, nous nous sommes intéréssés aux différentes fleurs afin de trouver celles qui conviennent le mieux à notre étude et modélisation.
 
 ### Semaine 2
+La deuxième semaine nous a également servi d'une semaine de recherche documentaire.
+Nous avons opté pour la fleur de lotus et Nous avons trouvé quelques échantillons de code qui modélisent 
+
 ### Semaine 3
 ### Semaine 4
 ### Semaine 5
