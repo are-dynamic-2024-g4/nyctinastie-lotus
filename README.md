@@ -14,4 +14,4 @@ Dans le cadre de notre étude nous nous concentrons sur les fleurs.
 
 ## Les fleurs modélisées:
 
-*La* *Lotus*
+*Le* *Lotus*
