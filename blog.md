@@ -5,7 +5,7 @@ Lors de cette première semaine, nous nous sommes intéréssés aux différentes
 
 ### Semaine 2
 La deuxième semaine nous a également servi d'une semaine de recherche documentaire.
-Nous avons opté pour la fleur de Lotus et nous avons trouvé quelques échantillons de code, notamment des fractales, qui modélisent son ouverture ce qui nous servira de base pour modeliser son mouvement nastique en fonction des differents faceturs. 
+Nous avons opté pour la fleur de Lotus et nous avons trouvé quelques échantillons de code, notamment des fractales, qui modélisent son ouverture ce qui nous servira de base pour modeliser son mouvement nastique en fonction des differents facteurs. 
 
 ### Semaine 3
 Notre quête de ressources fiables et pertinentes sur la nyctinastie se heurte à un défi : l'absence de recherches scientifiques spécifiquement dédiées à notre sujet. Il semble que la nyctinastie soit un domaine peu exploré par les biologistes, malgré son indéniable intérêt. Les rares sources disponibles se concentrent principalement sur les mouvements des feuilles d'arbres, négligeant les fleurs qui constituent l'objet central de notre étude. C'est un constat décevant mais instructif quant à l'état actuel des connaissances dans ce domaine.
