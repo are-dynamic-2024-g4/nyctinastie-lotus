@@ -38,7 +38,7 @@ La modélisation se concentre sur la simulation des réactions nyctinastiques du
 - **Fonction `nyctinastie_moyenne_mensuelle(mois, donnees_temperature, ov_nyctinastie, tp_nyctinastie, jf, debut_fleuraison, fin_fleuraison)`** et **Fonction `nyctinastie_max_mensuelle(mois, donnees_temperature, ov_nyctinastie, tp_nyctinastie, jf, debut_fleuraison, fin_fleuraison)`** : Calculent respectivement les moyennes et les valeurs maximales mensuelles pour le taux d'ouverture, la vitesse et la température.
 - **Fonction `nyctinastie_dans_annee(donnees_temperature, ov_nyctinastie, tp_nyctinastie, jf, debut_fleuraison, fin_fleuraison)`** : Aggrège les données nyctinastiques pour chaque mois de l'année, utilisé pour évaluer les variations saisonnières de la nyctinastie.
 
-#### Visualisation des données
+### Visualisation des données
    - **Fonction `visualiser_lotus(taux_ouverture, vitesse_ouverture)`** : Utilise la bibliothèque Turtle pour dessiner une représentation graphique de la fleur de lotus en fonction de son état d'ouverture et de la vitesse d'ouverture, illustrant visuellement l'effet de ces paramètres.
    - **Fonction `graphique_nyctinastie_journaliere(dataset, periode, j)`** : Crée un graphique des données nyctinastiques journalières, affichant le taux d'ouverture, la vitesse d'ouverture, et la température en fonction de l'heure de la journée.
    - **Fonction `afficher_evolution_annuelle_nyctinastie(moyennes_annuelles)`** : Crée un graphique combiné montrant à la fois le taux d'ouverture et la température moyenne au cours de l'année, donnant une vue d'ensemble de l'activité nyctinastique sur une base annuelle.
