@@ -41,7 +41,7 @@ La modélisation se concentre sur la simulation des réactions nyctinastiques du
 #### Visualisation des données
    - **Fonction `visualiser_lotus(taux_ouverture, vitesse_ouverture)`** : Utilise la bibliothèque Turtle pour dessiner une représentation graphique de la fleur de lotus en fonction de son état d'ouverture et de la vitesse d'ouverture, illustrant visuellement l'effet de ces paramètres.
    - **Fonction `graphique_nyctinastie_journaliere(dataset, periode, j)`** : Crée un graphique des données nyctinastiques journalières, affichant le taux d'ouverture, la vitesse d'ouverture, et la température en fonction de l'heure de la journée.
-    - **Fonction `afficher_evolution_annuelle_nyctinastie(moyennes_annuelles)`** : Crée un graphique combiné montrant à la fois le taux d'ouverture et la température moyenne au cours de l'année, donnant une vue d'ensemble de l'activité nyctinastique sur une base annuelle.
+   - **Fonction `afficher_evolution_annuelle_nyctinastie(moyennes_annuelles)`** : Crée un graphique combiné montrant à la fois le taux d'ouverture et la température moyenne au cours de l'année, donnant une vue d'ensemble de l'activité nyctinastique sur une base annuelle.
 
 
 ### Comment Commencer ?
