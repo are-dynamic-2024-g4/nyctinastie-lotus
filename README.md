@@ -52,7 +52,7 @@ Pour débuter votre exploration de la nyctinastie chez le Lotus Sacré, téléch
 
 Pour accéder à la documentation complète de toutes les fonctions que nous avons développées pour l'étude de la nyctinastie chez le Lotus Sacré, veuillez consulter notre wiki sur GitHub. Vous y trouverez des explications détaillées sur chaque fonction, y compris leurs descriptions, paramètres d'entrée, et exemples d'utilisation.
 
-[Accéder à la documentation des fonctions](https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/wiki)
+
 
 Explorez notre wiki pour obtenir des informations approfondies sur la manière d'utiliser nos outils de modélisation, d'analyse et de visualisation. Que vous soyez un un étudiant ou un passionné de botanique, notre documentation vous aidera à tirer le meilleur parti de notre plateforme d'étude de la nyctinastie du Lotus Sacré.
 
