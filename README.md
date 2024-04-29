@@ -43,6 +43,9 @@ La modélisation se concentre sur la simulation des réactions nyctinastiques du
    - **Fonction `graphique_nyctinastie_journaliere(dataset, periode, j)`** : Crée un graphique des données nyctinastiques journalières, affichant le taux d'ouverture, la vitesse d'ouverture, et la température en fonction de l'heure de la journée.
    - **Fonction `afficher_evolution_annuelle_nyctinastie(moyennes_annuelles)`** : Crée un graphique combiné montrant à la fois le taux d'ouverture et la température moyenne au cours de l'année, donnant une vue d'ensemble de l'activité nyctinastique sur une base annuelle.
 
+### Comment Commencer ?
+
+Pour débuter votre exploration de la nyctinastie chez le Lotus Sacré, téléchargez le notebook Jupyter contenant nos fonctions et outils de modélisation. Vous trouverez le lien de téléchargement dans le dossier principal de notre dépôt GitHub.
 
 
 
