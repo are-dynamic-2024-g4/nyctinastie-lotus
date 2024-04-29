@@ -2,7 +2,7 @@
 
 ## Bienvenue sur notre Plateforme d'Étude !
 
-Découvrez notre projet dédié à l'étude et à la modélisation de la nyctinastie chez le Lotus Sacré (Nelumbo nucifera). Nous vous présentons une suite d'outils et de fonctionnalités conçus pour explorer en profondeur ce phénomène biologique complexe.
+Découvrez notre projet dédié à l'étude et à la modélisation de la nyctinastie chez le Lotus Sacré (Nelumbo nucifera). Nous vous présentons une suite d'outils et de fonctionnalités conçus pour explorer ce phénomène biologique complexe.
 
 ## Présentation de l'équipe
 
