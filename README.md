@@ -4,6 +4,10 @@
 
 Découvrez notre projet dédié à l'étude et à la modélisation de la nyctinastie chez le Lotus Sacré (Nelumbo nucifera). Nous sommes heureux de vous présenter une suite d'outils et de fonctionnalités conçus pour explorer en profondeur ce phénomène biologique complexe.
 
+## Présentation de l'équipe
+
+| Ait Taleb Rachel | Boukrif Liza | Lalaoui Lena| Manegabe David |
+
 ### À Propos de la Nyctinastie :
 
 La nyctinastie est un phénomène biologique observé chez de nombreuses plantes, caractérisé par des mouvements de fermeture et d'ouverture de leurs organes en réponse à des variations de luminosité et d'autres facteurs environnementaux. Notre objectif est de comprendre et de modéliser ces mécanismes chez le Lotus Sacré.
