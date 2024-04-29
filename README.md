@@ -16,15 +16,29 @@ Pourquoi et comment le Lotus Sacré modifie-t-il le mouvement de ses pétales en
 - **Température :** Nous analysons également l'impact de la température sur la nyctinastie de cette plante.
 - **Saisonnalité :** Nous explorons le rôle de la saisonnalité dans la régulation de la nyctinastie, en tenant compte des variations climatiques tout au long de l'année
 
-### Objectif de Notre Projet :
+### Objectif de notre projet :
 
 Nous visons à fournir une plateforme complète pour l'analyse et la modélisation de la nyctinastie chez le Lotus Sacré. Pour ce faire, nous avons développé un ensemble d'outils mathématiques et techniques pour étudier les réponses nyctinastiques de cette plante.
 
-### Les Fonctions Disponibles :
+### Progression logique de l'algorithme
+La procédure commence par la collecte de données climatiques régionales où pousse le lotus, cruciales pour comprendre les réactions nyctinastiques du lotus sacré en fonction de son environnement. L'analyse de la corrélation entre ces variables et les mouvements nyctinastiques des feuilles est effectuée pour déterminer comment la température influence ces mouvements. 
+- Les **données climatiques** alimentent directement l'**analyse de corrélation**, qui à son tour est essentielle pour paramétrer et ajuster les **modèles mathématiques** qui simulent le comportement nyctinastique.
+- Les résultats de l'**analyse de corrélation** et de l'**interpolation linéaire** aident à peaufiner les modèles qui prédisent les taux d'ouverture basés sur la température.
+- Les **modèles de taux d'ouverture** influencent la façon dont les **graphiques temporels** sont interprétés et présentés, fournissant un aperçu complet de la dynamique diurne et saisonnière des mouvements nyctinastiques.
+La modélisation mathématique s'appuie sur des techniques statistiques pour évaluer les corrélations entre les variables climatiques et la nyctinastie. Le code Python utilise des bibliothèques Matplotlib, NumPy et Turtle pour traiter les données et visualiser les résultats.
 
-- **Calcul des Paramètres Nyctinastiques :** Explorez nos fonctions pour calculer les paramètres nyctinastiques en fonction des données de température, de luminosité et d'heure du jour.
-- **Visualisation des Données :** Utilisez nos outils de visualisation pour observer graphiquement les variations de la nyctinastie en fonction de différents paramètres environnementaux.
-- **Analyse Statistique :** Profitez de nos fonctionnalités d'analyse pour obtenir des moyennes mensuelles, des statistiques annuelles et d'autres insights sur la nyctinastie du Lotus Sacré.
+### Modélisation temporelle de la nyctinastie
+La modélisation se concentre sur la simulation des réactions nyctinastiques du lotus sacré (Nelumbo nucifera) aux variations environnementales dans le temps. Les variations journalières de nyctinastie sont modélisées pour comprendre comment les ouvertures fluctuent au cours de la journée.
+- **Interpolation linéaire** (`lineariser_donnees`) pour prédire le taux d'ouverture à des températures non mesurées directement, en utilisant les données existantes pour estimer des valeurs intermédiaires. Cela utilise typiquement une formule d'interpolation linéaire où étant la température et le taux d'ouverture.
+   - **Fonction `nyctinastie_periode_journalier(periode, donnees_temperature, ov_nyctinastie, tp_nyctinastie, jf, debut_fleuraison, fin_fleuraison)`** : Calcule les paramètres de nyctinastie pour chaque heure d'un jour spécifique, fournissant une analyse détaillée du comportement nyctinastique sur une base journalière.   
+   - **Fonction `nyctinastie_dans_annee(donnees_temperature, ov_nyctinastie, tp_nyctinastie, jf, debut_fleuraison, fin_fleuraison)`** : Aggrège les données nyctinastiques pour chaque mois de l'année, utilisé pour évaluer les variations saisonnières de la nyctinastie.
+   - **Fonction `nyctinastie_moyenne_mensuelle(mois, donnees_temperature, ov_nyctinastie, tp_nyctinastie, jf, debut_fleuraison, fin_fleuraison)`** et **`nyctinastie_max_mensuelle(mois, donnees_temperature, ov_nyctinastie, tp_nyctinastie, jf, debut_fleuraison, fin_fleuraison)`** : Calculent respectivement les moyennes et les valeurs maximales mensuelles pour le taux d'ouverture, la vitesse et la température.
+
+#### Visualisation des données
+   - **Fonction `visualiser_lotus(taux_ouverture, vitesse_ouverture)`** : Utilise la bibliothèque Turtle pour dessiner une représentation graphique de la fleur de lotus en fonction de son état d'ouverture et de la vitesse d'ouverture, illustrant visuellement l'effet de ces paramètres.
+   - **Fonction `graphique_nyctinastie_journaliere(dataset, periode = (0,0), j = 0)`** : Crée un graphique des données nyctinastiques journalières, affichant le taux d'ouverture, la vitesse d'ouverture, et la température en fonction de l'heure de la journée.
+    - **Fonction `afficher_evolution_annuelle_nyctinastie(moyennes_annuelles)`** : Crée un graphique combiné montrant à la fois le taux d'ouverture et la température moyenne au cours de l'année, donnant une vue d'ensemble de l'activité nyctinastique sur une base annuelle.
+
 
 ### Comment Commencer ?
 
