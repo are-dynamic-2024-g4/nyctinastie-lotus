@@ -16,10 +16,7 @@ Pour notre modèle on a créé ainsi un programme en Python permettant de modél
 Voici à quoi ressemble notre simulation :
 
 
-<div style="position: relative; height: 70vh;">
-    <img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/raw/main/modele.png.png" alt="Logo of My Website" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-</div>
-
+<img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/raw/main/modele.png.png" alt="Logo of My Website" width="550" height="500">
 
 
 
