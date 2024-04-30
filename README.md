@@ -10,8 +10,11 @@ Découvrez notre projet dédié à l'étude et à la modélisation de la nyctina
 ### À Propos de la Nyctinastie :
 
 La nyctinastie est un phénomène biologique observé chez de nombreuses plantes, caractérisé par des mouvements de fermeture et d'ouverture de leurs organes en réponse à des variations de luminosité et d'autres facteurs environnementaux. Notre objectif est de comprendre et de modéliser ces mécanismes chez le Lotus Sacré.
+
 <a href="https://www.pexels.com/fr-fr/photo/nature-fleurs-plantes-centrales-19426727/">
-  <img src="https://images.pexels.com/photos/19426727/pexels-photo-19426727.jpeg?auto=compress&cs
+  <img src="https://images.pexels.com/photos/19426727/pexels-photo-19426727.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Nature Fleurs Plantes Centrales">
+</a>
+
 
 
 
