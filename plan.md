@@ -4,3 +4,6 @@ La nyctinastie, un phénomène biologique fascinant, se manifeste chez de nombre
 ## La Problématique : 
 Pourquoi et comment le Lotus Sacré modifie-t-il le mouvement de ses pétales en réponse à des stimuli externes tels que la température et la luminosité ou l'heure du jour ?.
 
+
+## Les parametres : 
+# (Notre modèle, les choix réalisés)
