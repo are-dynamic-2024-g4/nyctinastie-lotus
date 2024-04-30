@@ -1,8 +1,6 @@
 # Exploration de la Nyctinastie chez le Lotus Sacré
 
 ## Bienvenue sur notre Plateforme d'Étude !
-<a href="http://zupimages.net/viewer.php?id=19/13/jrzz.png"><img src="https://zupimages.net/up/19/13/jrzz.png" alt="" /></a>
-
 Découvrez notre projet dédié à l'étude et à la modélisation de la nyctinastie chez le Lotus Sacré (Nelumbo nucifera). Nous vous présentons une suite d'outils et de fonctionnalités conçus pour explorer ce phénomène biologique complexe.
 
 ## Présentation de l'équipe
