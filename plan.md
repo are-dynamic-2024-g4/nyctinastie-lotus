@@ -11,7 +11,8 @@ Pourquoi et comment le Lotus Sacré modifie-t-il le mouvement de ses pétales en
 - **Saisonnalité :** Nous explorons le rôle de la saisonnalité dans la régulation de la nyctinastie, en tenant compte des variations climatiques tout au long de l'année.
 
 ## Notre modèle :
-modele.png.png
+<img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/raw/main/modele.png.png" alt="Logo of My Website">
+
 
 
 
