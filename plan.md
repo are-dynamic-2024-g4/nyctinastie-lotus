@@ -21,10 +21,7 @@ Voici à quoi ressemble notre simulation :
 ## La simulation : 
 Voici une vidéo contenant plusieurs exemples illustant le phénomene de la nyctinastie :
 
-<video width="320" height="240" controls>
-  <source src="https://your-username.github.io/your-repository/your-video-file.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HZPErH78cx" frameborder="0" allowfullscreen></iframe>
 
 
 
