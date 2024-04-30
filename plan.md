@@ -25,6 +25,14 @@ TU l'a met la --> here # DAVID
 
 
 
+Dans la vidéo ci-dessus, nous avons modifié les paramètres pour rendre les ajustements visibles, notamment le taux d'ouverture et la vitesse de fermeture de la plante. Nous avons commencé par utiliser les valeurs (100, 100) pour représenter une ouverture de la plante dans les conditions parfaites . Ensuite, nous avons ajusté les paramètres à (80, 25) pour mettre en évidence le changement de vitesse, suivi de l'expérimentation avec les valeurs (80, 95) pour accentuer ce changement. Enfin, nous avons testé les valeurs (15, 70) pour mettre en évidence la différence dans l'ouverture de la fleur et pour souligner le processus de nyctinastie.
+
+
+
+
+
+
+
 
 
 
