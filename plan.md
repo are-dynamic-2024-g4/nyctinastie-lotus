@@ -6,4 +6,4 @@ Pourquoi et comment le Lotus Sacré modifie-t-il le mouvement de ses pétales en
 
 
 ## Les parametres : 
-# (Notre modèle, les choix réalisés)
+# Notre modèle, les choix réalisés
