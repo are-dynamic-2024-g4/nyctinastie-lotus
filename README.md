@@ -15,6 +15,7 @@ La nyctinastie est un phénomène biologique observé chez de nombreuses plantes
 </a>
 
 
+
 ### Problématique :
 
 Pourquoi et comment le Lotus Sacré modifie-t-il le mouvement de ses pétales en réponse à des stimuli externes tels que la température et la luminosité ou l'heure du jour ? Pour répondre à cette question, nous examinons plusieurs facteurs qui influent sur la nyctinastie chez le Lotus Sacré :
