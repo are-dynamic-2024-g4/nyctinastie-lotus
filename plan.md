@@ -22,8 +22,7 @@ Voici à quoi ressemble notre simulation :
 Voici une vidéo contenant plusieurs exemples illustant le phénomene de la nyctinastie :
 
 <video width="640" height="360" controls>
-  <source src="https://raw.githubusercontent.com/are-dynamic-2024-g4/nyctinastie-lotus/main/Simulation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/blob/main/Simulation.mp4" type="video/mp4">
 </video>
 
 
