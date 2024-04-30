@@ -73,6 +73,15 @@ Rejoignez-nous dans cette aventure scientifique alors que nous explorons les sub
 
 ## Bibliographie :
 
+Nelumbo nucifera, 2024 Wikipédia [online]. Retrieved from : https://fr.wikipedia.org/w/index.php?title=Nelumbo_nucifera&oldid=212155507 [accessed 30 April 2024]. Page Version ID: 212155507
+
+Horloge florale, 2024 Wikipédia [online]. Retrieved from : https://fr.wikipedia.org/w/index.php?title=Horloge_florale&oldid=214579595 [accessed 30 April 2024]. Page Version ID: 214579595
+
+
+
+
+
+
 **Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
 
 Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
