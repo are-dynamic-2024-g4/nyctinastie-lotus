@@ -55,7 +55,7 @@ Pour accéder à la documentation complète de toutes les fonctions que nous avo
 
 [Accéder à la documentation des fonctions](https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/wiki)
 
-Explorez notre wiki pour obtenir des informations approfondies sur la manière d'utiliser nos outils de modélisation, d'analyse et de visualisation. Que vous soyez un un étudiant ou un passionné de botanique, notre documentation vous aidera à tirer le meilleur parti de notre plateforme d'étude de la nyctinastie du Lotus Sacré.
+Explorez notre wiki pour obtenir des informations approfondies sur la manière d'utiliser nos outils de modélisation, d'analyse et de visualisation. Que vous soyez un étudiant ou un passionné de botanique, notre documentation vous aidera à tirer le meilleur parti de notre plateforme d'étude de la nyctinastie du Lotus Sacré.
 
 Rejoignez-nous dans cette aventure scientifique alors que nous explorons les subtilités de la nyctinastie du Lotus Sacré !
 
