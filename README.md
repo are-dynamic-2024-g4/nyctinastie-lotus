@@ -77,6 +77,8 @@ Nelumbo nucifera, 2024 Wikipédia [online]. Retrieved from : https://fr.wikiped
 
 Horloge florale, 2024 Wikipédia [online]. Retrieved from : https://fr.wikipedia.org/w/index.php?title=Horloge_florale&oldid=214579595 [accessed 30 April 2024]. Page Version ID: 214579595
 
+SEYMOUR, R. S., 1998. Physiological temperature regulation by flowers of the sacred lotus. Philosophical Transactions of the Royal Society B: Biological Sciences. Vol. 353, no. 1371, pp. 935–943. DOI 10.1098/rstb.1998.0258. 
+
 
 
 
