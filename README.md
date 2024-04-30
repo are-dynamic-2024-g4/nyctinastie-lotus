@@ -17,6 +17,10 @@ La nyctinastie est un phénomène biologique observé chez de nombreuses plantes
 
 
 ### Problématique :
+<a href="https://www.pexels.com/fr-fr/photo/nature-fleurs-plantes-centrales-19845796/">
+  <img src="https://images.pexels.com/photos/19845796/pexels-photo-19845796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Nature Fleurs Plantes Centrales">
+</a>
+
 
 Pourquoi et comment le Lotus Sacré modifie-t-il le mouvement de ses pétales en réponse à des stimuli externes tels que la température et la luminosité ou l'heure du jour ? Pour répondre à cette question, nous examinons plusieurs facteurs qui influent sur la nyctinastie chez le Lotus Sacré :
 
