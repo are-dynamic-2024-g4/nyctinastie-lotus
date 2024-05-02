@@ -39,7 +39,7 @@ Voici les tableaux de données représentant les résultats de notre étude :
  1- La variation de la vitesse et du taux d'ouverture en fonction de l'heure :
 
  
- <img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/raw/main/VTH.png" alt="Graph" width="550" height="450"> 
+ <img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/raw/main/VTH.png" alt="Graph" width="900"> 
 
 
 
@@ -48,7 +48,7 @@ Voici les tableaux de données représentant les résultats de notre étude :
  2- Les taux d'ouverture en fonction de la température : 
 
 
- <img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/raw/main/TO.png" alt="Logo of My Website" width="1500" height="200"> 
+ <img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/raw/main/TO.png" alt="Graph" width="1500"> 
 
 
  
@@ -57,7 +57,7 @@ Pour notre modèle on a créé ainsi un programme en Python permettant de modél
 Voici à quoi ressemble notre simulation :
 
 
-<img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/raw/main/modele.png.png" alt="Logo of My Website" width="550" height="500"> 
+<img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/raw/main/modele.png.png" alt="Logo of My Website" width="900"> 
 
 
 ## La simulation : 
