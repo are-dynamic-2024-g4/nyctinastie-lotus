@@ -1,4 +1,15 @@
 
+Nyctinasty, also known as sleep movement, is a fascinating phenomenon that affects many floral species.In our study, we focus on the flower's reactions to this phenomenon. Our goal is to better understand the biological and environmental mechanisms that influence these nocturnal movements.
+
+## Présentation de l'équipe
+<table>
+    <tr>
+        <td>Rachel AIT TALEB</td>
+        <td>Liza BOUKRIF</td>
+        <td>Lena LALAOUI</td>
+        <td>David MANEGABE</td>
+    </tr>
+</table>
 
 
 ##  Notre Thématique :
