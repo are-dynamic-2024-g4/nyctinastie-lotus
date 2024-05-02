@@ -64,7 +64,7 @@ Voici à quoi ressemble notre simulation :
 ## La simulation : 
 Voici une vidéo contenant plusieurs exemples illustant le phénomene de la nyctinastie :
 
-TU l'a met la --> here # DAVID
+
 
 
 
