@@ -20,7 +20,7 @@ Voici les tableaux de données représentant les résultats de notre étude :
 
 
  2- Les taux d'ouverture en fonction de la température : 
- <img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/blob/main/TO.png" alt="Logo of My Website" width="200" height="200"> 
+ <img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/blob/main/TO.png" alt="Logo of My Website" width="800" height="200"> 
 
 
  
