@@ -3,7 +3,7 @@
 La Nyctinastie est une forme de mouvement nastic, également appelé le mouvement de veille et de sommeil, dans le cadre de notre étude nous nous concentrons sur les fleurs.
 Notre objectif est d'étudier la réaction des fleurs face à ce  phénomène et de mieux comprendre les mécanismes biologiques et environnementaux qui influencent ces mouvements nocturnes.
 
-<img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/blob/main/lotus.png" alt="Logo of My Website" width="800" height="500"> 
+<img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/raw/main/lotus.png" alt="Logo of My Website" width="800" height="500"> 
 
 ## English version
 
@@ -39,7 +39,7 @@ Voici les tableaux de données représentant les résultats de notre étude :
  1- La variation de la vitesse et du taux d'ouverture en fonction de l'heure :
 
  
- <img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/blob/main/VTH.png" alt="Logo of My Website" width="550" height="450"> 
+ <img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/raw/main/VTH.png" alt="Logo of My Website" width="550" height="450"> 
 
 
 
@@ -48,7 +48,7 @@ Voici les tableaux de données représentant les résultats de notre étude :
  2- Les taux d'ouverture en fonction de la température : 
 
 
- <img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/blob/main/TO.png" alt="Logo of My Website" width="1500" height="200"> 
+ <img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/raw/main/TO.png" alt="Logo of My Website" width="1500" height="200"> 
 
 
  
