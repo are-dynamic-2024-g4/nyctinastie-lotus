@@ -89,6 +89,7 @@ Pour approfondir notre étude, il aurait été bénéfique d'intégrer l'humidit
 
 ## Lien vers page de blog : <a href="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/blob/main/plan.md"> C'est ici ! </a>
 
+
 ## Bibliographie :
 
 **Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
