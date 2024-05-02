@@ -4,7 +4,7 @@ La Nyctinastie est une forme de mouvement nastic, également appelé le mouvemen
 Notre objectif est d'étudier la réaction des fleurs face à ce  phénomène et de mieux comprendre les mécanismes biologiques et environnementaux qui influencent ces mouvements nocturnes.
 
 
-<img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/blob/main/lotus.png" alt="Logo of My Website" width="550" height="450"> 
+<img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/blob/main/lotus.png" alt="Logo of My Website" width="200" height="200"> 
 
 ## English version
 
