@@ -183,7 +183,7 @@ SEYMOUR, Roger S. and SCHULTZE–MOTEL, Paul, 1998. Physiological temperature re
     <hr />
     <p>
         &copy; 2024 
-        <span lang="fr">Copyright par un groupe d'étudiant de la Sorbonne Université (recherches expérimentales)</span>
-        - <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener noreferrer">MIT Licence</a>
+        <span lang="fr">Copyright par un groupe d'étudiant de L1 à Sorbonne Université (expérimentales)</span>
+        - <i>MIT Licence</i>
     </p>
 </footer>
