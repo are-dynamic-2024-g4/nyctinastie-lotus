@@ -36,7 +36,7 @@ Pourquoi et comment le Lotus Sacré modifie-t-il le mouvement de ses pétales en
 
 Voici les tableaux de données représentant les résultats de notre étude :
 
- 1- La variation de la vitesse et du taux d'ouverture en fonction de l'heure : <br />
+### 1. La variation de la vitesse et du taux d'ouverture en fonction de l'heure : <br />
  
 <table border="0">
     <tr>
@@ -99,16 +99,32 @@ Voici les tableaux de données représentant les résultats de notre étude :
     <tr><td>6</td><td>19</td><td>20</td><td>80</td><td colspan="4"></td></tr>
 </table>
 
+### 2. Les taux d'ouverture en fonction de la température : 
 
-
-
-
-
- 2- Les taux d'ouverture en fonction de la température : 
-
-
- <img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/raw/main/TO.png" alt="Graph" width="1500"> 
-
+<table border="0">
+    <tr>
+        <th>Températures</th>
+        <td>14 °C</td>
+        <td>18 °C</td>
+        <td>22 °C</td>
+        <td>26 °C</td>
+        <td>30 °C</td>
+        <td>34 °C</td>
+        <td>38 °C</td>
+        <td>42 °C</td>
+    </tr>
+    <tr>
+        <th>Taux d'ouverture</th>
+        <td>2 %</td>
+        <td>13 %</td>
+        <td>25 %</td>
+        <td>37 %</td>
+        <td>51 %</td>
+        <td>65 %</td>
+        <td>88 %</td>
+        <td>100 %</td>
+    </tr>
+</table>
 
  
 Pour notre modèle on a créé ainsi un programme en Python permettant de modéliser à l’aide d’une fenêtre Turtle graphics le phénomène de la nyctinastie chez la fleur de lotus sacré.
@@ -116,7 +132,7 @@ Pour notre modèle on a créé ainsi un programme en Python permettant de modél
 Voici à quoi ressemble notre simulation :
 
 
-<img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/raw/main/modele.png.png" alt="Logo of My Website" width="900"> 
+<img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/raw/main/modele.png" alt="Simulation" width="900"> 
 
 
 ## La simulation : 
