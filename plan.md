@@ -30,15 +30,15 @@ Dans la vidéo ci-dessus, nous avons modifié les paramètres pour rendre les aj
 
 
 ## Analyse critique :
-### Contexte de la recherche :
+#### Contexte de la recherche :
 L'étude de la nyctinastie chez le Lotus Sacré ouvre des portes intéressantes pour comprendre comment cette plante réagit aux changements de son environnement.
-### Objectifs de la recherche :
+#### Objectifs de la recherche :
 En se concentrant sur les réponses adaptatives de cette plante aux changements de luminosité, d'heure du jour, de température et de saisonnalité, notre recherche vise à éclaircir pourquoi et comment le Lotus Sacré ajuste le mouvement de ses pétales.
-### Importance de l'heure du jour :
+#### Importance de l'heure du jour :
 Un élément intriguant de notre étude réside dans l'impact significatif de l'heure du jour sur le mouvement de la nyctinastie. Nous observons des variations marquées dans la réponse de la plante à différentes heures, avec une ouverture complète à certaines heures et une absence de mouvement à d'autres moments.
-### Effet de la température et des saisons :
+#### Effet de la température et des saisons :
 De plus, l'examen de l'impact de la température et de la saisonnalité sur la nyctinastie élargit la portée de notre recherche en tenant compte des interactions complexes entre différents facteurs environnementaux
-### Défis potentiels :
+#### Défis potentiels :
 La complexité des interactions entre la lumière, la température et d'autres paramètres environnementaux complique notre compréhension de la nyctinastie. De plus, le manque de ressources en ligne et de recherches préexistantes sur ce sujet rend notre travail encore plus difficile. Nous devons souvent nous appuyer sur des données fragmentaires pour progresser dans notre recherche.
 
 
