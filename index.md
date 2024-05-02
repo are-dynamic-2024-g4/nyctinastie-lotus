@@ -163,7 +163,7 @@ La complexité des interactions entre la lumière, la température et d'autres p
 ## Extensions possibles :
 Pour approfondir notre étude, il aurait été bénéfique d'intégrer l'humidité en tant que facteur supplémentaire à prendre en considération. En outre, l'utilisation de méthodes informatiques aurait pu enrichir notre projet. Nous avons employé des techniques fractales pour étudier la nyctinastie chez le Lotus Sacré, mais nous aurions également pu explorer la nyctinastie des feuilles en utilisant des L-systèmes fractals. En envisageant aussi une autre fleur comme le lys de Casablanca, qui dévoile ses pétales pendant la nuit, il aurait été possible d'explorer davantage les interactions entre différents facteurs environnementaux.
 
-## Lien vers notre dépot GitHub : <a href="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/"> C'est ici ! </a>
+## Lien vers notre dépot GitHub : <a href="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/" target="_blank"> C'est ici ! </a>
 
 
 ## Bibliographie :
