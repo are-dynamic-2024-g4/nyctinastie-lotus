@@ -37,7 +37,7 @@ Voici à quoi ressemble notre simulation :
 
 <img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/raw/main/modele.png.png" alt="Logo of My Website" width="550" height="500"> 
 
-Voici les tableaux de données représentant les résultats de notre étude :
+
 ## La simulation : 
 Voici une vidéo contenant plusieurs exemples illustant le phénomene de la nyctinastie :
 
