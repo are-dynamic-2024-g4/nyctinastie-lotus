@@ -25,7 +25,7 @@ Nyctinasty, also known as sleep movement, is a fascinating phenomenon that affec
 
 Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
 
-## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
+## Lien vers page de blog : <a href="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/blob/main/plan.md"> C'est ici ! </a>
 
 ## Bibliographie :
 
