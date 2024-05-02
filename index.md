@@ -36,10 +36,69 @@ Pourquoi et comment le Lotus Sacré modifie-t-il le mouvement de ses pétales en
 
 Voici les tableaux de données représentant les résultats de notre étude :
 
- 1- La variation de la vitesse et du taux d'ouverture en fonction de l'heure :
-
+ 1- La variation de la vitesse et du taux d'ouverture en fonction de l'heure : <br />
  
- <img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/raw/main/VTH.png" alt="Graph" width="900"> 
+<table border="1">
+    <tr>
+        <th>Jour</th>
+        <th>Heure</th>
+        <th>Taux (%)</th>
+        <th>Vitesse</th>
+        <th>Jour</th>
+        <th>Heure</th>
+        <th>Taux (%)</th>
+        <th>Vitesse</th>
+    </tr>
+    <!-- Day 1 -->
+    <tr><td>1</td><td>7</td><td>0</td><td>90</td><td>1</td><td>8</td><td>15</td><td>90</td></tr>
+    <tr><td>1</td><td>9</td><td>45</td><td>90</td><td>1</td><td>10</td><td>60</td><td>90</td></tr>
+    <tr><td>1</td><td>11</td><td>75</td><td>40</td><td>1</td><td>12</td><td>78</td><td>40</td></tr>
+    <tr><td>1</td><td>13</td><td>80</td><td>10</td><td>1</td><td>14</td><td>80</td><td>10</td></tr>
+    <tr><td>1</td><td>15</td><td>83</td><td>30</td><td>1</td><td>16</td><td>90</td><td>30</td></tr>
+    <tr><td>1</td><td>17</td><td>100</td><td>60</td><td>1</td><td>18</td><td>80</td><td>80</td></tr>
+    <tr><td>1</td><td>19</td><td>30</td><td>100</td><td colspan="4"></td></tr>
+    <!-- Day 2 -->
+    <tr><td>2</td><td>7</td><td>0</td><td>40</td><td>2</td><td>8</td><td>10</td><td>40</td></tr>
+    <tr><td>2</td><td>9</td><td>25</td><td>40</td><td>2</td><td>10</td><td>45</td><td>60</td></tr>
+    <tr><td>2</td><td>11</td><td>50</td><td>15</td><td>2</td><td>12</td><td>53</td><td>15</td></tr>
+    <tr><td>2</td><td>13</td><td>63</td><td>25</td><td>2</td><td>14</td><td>65</td><td>25</td></tr>
+    <tr><td>2</td><td>15</td><td>70</td><td>25</td><td>2</td><td>16</td><td>69</td><td>5</td></tr>
+    <tr><td>2</td><td>17</td><td>65</td><td>5</td><td>2</td><td>18</td><td>30</td><td>75</td></tr>
+    <tr><td>2</td><td>19</td><td>10</td><td>75</td><td colspan="4"></td></tr>
+    <!-- Day 3 -->
+    <tr><td>3</td><td>7</td><td>0</td><td>60</td><td>3</td><td>8</td><td>10</td><td>60</td></tr>
+    <tr><td>3</td><td>9</td><td>25</td><td>60</td><td>3</td><td>10</td><td>40</td><td>60</td></tr>
+    <tr><td>3</td><td>11</td><td>45</td><td>25</td><td>3</td><td>12</td><td>56</td><td>25</td></tr>
+    <tr><td>3</td><td>13</td><td>68</td><td>22</td><td>3</td><td>14</td><td>72</td><td>22</td></tr>
+    <tr><td>3</td><td>15</td><td>80</td><td>70</td><td>3</td><td>16</td><td>68</td><td>70</td></tr>
+    <tr><td>3</td><td>17</td><td>30</td><td>90</td><td>3</td><td>18</td><td>15</td><td>90</td></tr>
+    <tr><td>3</td><td>19</td><td>5</td><td>90</td><td colspan="4"></td></tr>
+    <!-- Day 4 -->
+    <tr><td>4</td><td>7</td><td>0</td><td>60</td><td>4</td><td>8</td><td>10</td><td>60</td></tr>
+    <tr><td>4</td><td>9</td><td>25</td><td>60</td><td>4</td><td>10</td><td>40</td><td>60</td></tr>
+    <tr><td>4</td><td>11</td><td>45</td><td>25</td><td>4</td><td>12</td><td>56</td><td>25</td></tr>
+    <tr><td>4</td><td>13</td><td>68</td><td>22</td><td>4</td><td>14</td><td>72</td><td>22</td></tr>
+    <tr><td>4</td><td>15</td><td>80</td><td>70</td><td>4</td><td>16</td><td>68</td><td>70</td></tr>
+    <tr><td>4</td><td>17</td><td>30</td><td>90</td><td>4</td><td>18</td><td>15</td><td>90</td></tr>
+    <tr><td>4</td><td>19</td><td>5</td><td>90</td><td colspan="4"></td></tr>
+    <!-- Day 5 -->
+    <tr><td>5</td><td>7</td><td>0</td><td>60</td><td>5</td><td>8</td><td>10</td><td>60</td></tr>
+    <tr><td>5</td><td>9</td><td>25</td><td>60</td><td>5</td><td>10</td><td>40</td><td>60</td></tr>
+    <tr><td>5</td><td>11</td><td>45</td><td>25</td><td>5</td><td>12</td><td>56</td><td>25</td></tr>
+    <tr><td>5</td><td>13</td><td>68</td><td>22</td><td>5</td><td>14</td><td>72</td><td>22</td></tr>
+    <tr><td>5</td><td>15</td><td>80</td><td>70</td><td>5</td><td>16</td><td>68</td><td>70</td></tr>
+    <tr><td>5</td><td>17</td><td>30</td><td>90</td><td>5</td><td>18</td><td>15</td><td>90</td></tr>
+    <tr><td>5</td><td>19</td><td>5</td><td>90</td><td colspan="4"></td></tr>
+    <!-- Day 6 -->
+    <tr><td>6</td><td>7</td><td>0</td><td>80</td><td>6</td><td>8</td><td>30</td><td>80</td></tr>
+    <tr><td>6</td><td>9</td><td>67</td><td>80</td><td>6</td><td>10</td><td>75</td><td>30</td></tr>
+    <tr><td>6</td><td>11</td><td>85</td><td>30</td><td>6</td><td>12</td><td>90</td><td>20</td></tr>
+    <tr><td>6</td><td>13</td><td>80</td><td>20</td><td>6</td><td>14</td><td>80</td><td>20</td></tr>
+    <tr><td>6</td><td>15</td><td>78</td><td>40</td><td>6</td><td>16</td><td>70</td><td>40</td></tr>
+    <tr><td>6</td><td>17</td><td>60</td><td>40</td><td>6</td><td>18</td><td>45</td><td>80</td></tr>
+    <tr><td>6</td><td>19</td><td>20</td><td>80</td><td colspan="4"></td></tr>
+</table>
+
 
 
 
