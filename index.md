@@ -3,7 +3,7 @@
 La Nyctinastie est une forme de mouvement nastic, également appelé le mouvement de veille et de sommeil, dans le cadre de notre étude nous nous concentrons sur les fleurs.
 Notre objectif est d'étudier la réaction des fleurs face à ce  phénomène et de mieux comprendre les mécanismes biologiques et environnementaux qui influencent ces mouvements nocturnes.
 
-<img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/raw/main/lotus.png" alt="Lotus sacré" width="900"> 
+<img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/raw/main/lotus.png" alt="Lotus sacré" width="1000"> 
 
 ## English version
 
