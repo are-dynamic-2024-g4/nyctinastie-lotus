@@ -6,7 +6,7 @@ Pourquoi et comment le Lotus Sacré modifie-t-il le mouvement de ses pétales en
 
 
 ## Les paramètres :    
- **Luminosité / Heure du Jour :** Bien que la luminosité soit un facteur important, notre étude accorde une importance particulière à l'heure du jour comme principal déterminant de la nyctinastie.  En quoi l'heure du jour influence-t-elle les mouvements nyctinastiques du Lotus Sacré ?
+- **Luminosité / Heure du Jour :** Bien que la luminosité soit un facteur important, notre étude accorde une importance particulière à l'heure du jour comme principal déterminant de la nyctinastie.  En quoi l'heure du jour influence-t-elle les mouvements nyctinastiques du Lotus Sacré ?
 - **Température :** Nous analysons également l'impact de la température sur la nyctinastie de cette plante.
 - **Saisonnalité :** Nous explorons le rôle de la saisonnalité dans la régulation de la nyctinastie, en tenant compte des variations climatiques tout au long de l'année.
 
