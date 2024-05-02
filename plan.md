@@ -30,7 +30,7 @@ Dans la vidéo ci-dessus, nous avons modifié les paramètres pour rendre les aj
 
 
 ## Analyse critique :
-<font color="red">**Contexte de la recherche :**</font>
+#### Contexte de la recherche :
 L'étude de la nyctinastie chez le Lotus Sacré ouvre des portes intéressantes pour comprendre comment cette plante réagit aux changements de son environnement.
 #### Objectifs de la recherche :
 En se concentrant sur les réponses adaptatives de cette plante aux changements de luminosité, d'heure du jour, de température et de saisonnalité, notre recherche vise à éclaircir pourquoi et comment le Lotus Sacré ajuste le mouvement de ses pétales.
@@ -41,8 +41,8 @@ De plus, l'examen de l'impact de la température et de la saisonnalité sur la n
 #### Défis potentiels :
 La complexité des interactions entre la lumière, la température et d'autres paramètres environnementaux complique notre compréhension de la nyctinastie. De plus, le manque de ressources en ligne et de recherches préexistantes sur ce sujet rend notre travail encore plus difficile. Nous devons souvent nous appuyer sur des données fragmentaires pour progresser dans notre recherche.
 
-
-
+## Extensions possibles :
+Pour approfondir notre étude, il aurait été bénéfique d'intégrer l'humidité en tant que facteur supplémentaire à prendre en considération. En outre, l'utilisation de méthodes informatiques aurait pu enrichir notre projet. Nous avons employé des techniques fractales pour étudier la nyctinastie chez le Lotus Sacré, mais nous aurions également pu explorer la nyctinastie des feuilles en utilisant des systèmes fractals similaires. En envisageant une autre fleur, comme le lys de Casablanca, qui dévoile ses pétales davantage pendant la nuit, il aurait été possible d'explorer davantage les interactions entre différents facteurs environnementaux.
 
 
 
