@@ -38,7 +38,7 @@ Voici les tableaux de données représentant les résultats de notre étude :
 
  1- La variation de la vitesse et du taux d'ouverture en fonction de l'heure : <br />
  
-<table border="1">
+<table border="0">
     <tr>
         <th>Jour</th>
         <th>Heure</th>
