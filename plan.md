@@ -30,7 +30,7 @@ Dans la vidéo ci-dessus, nous avons modifié les paramètres pour rendre les aj
 
 
 ## Analyse critique :
-** Contexte de la recherche ** :
+<font color="red">**Contexte de la recherche :**</font>
 L'étude de la nyctinastie chez le Lotus Sacré ouvre des portes intéressantes pour comprendre comment cette plante réagit aux changements de son environnement.
 #### Objectifs de la recherche :
 En se concentrant sur les réponses adaptatives de cette plante aux changements de luminosité, d'heure du jour, de température et de saisonnalité, notre recherche vise à éclaircir pourquoi et comment le Lotus Sacré ajuste le mouvement de ses pétales.
