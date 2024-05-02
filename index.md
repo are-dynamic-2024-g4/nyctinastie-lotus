@@ -168,15 +168,15 @@ Pour approfondir notre étude, il aurait été bénéfique d'intégrer l'humidit
 
 ## Bibliographie :
 
-Nelumbo nucifera, 2024 Wikipédia [online]. Retrieved from : https://fr.wikipedia.org/w/index.php?title=Nelumbo_nucifera&oldid=212155507 [accessed 30 April 2024]. Page Version ID: 212155507
+Nelumbo nucifera, 2024 Wikipédia [online]. Retrieved from : [https://fr.wikipedia.org/w/index.php?title=Nelumbo_nucifera&oldid=212155507](https://fr.wikipedia.org/w/index.php?title=Nelumbo_nucifera&oldid=212155507) [accessed 30 April 2024]. Page Version ID: 212155507
 
-Horloge florale, 2024 Wikipédia [online]. Retrieved from : https://fr.wikipedia.org/w/index.php?title=Horloge_florale&oldid=214579595 [accessed 30 April 2024]. Page Version ID: 214579595
+Horloge florale, 2024 Wikipédia [online]. Retrieved from : [https://fr.wikipedia.org/w/index.php?title=Horloge_florale&oldid=214579595](https://fr.wikipedia.org/w/index.php?title=Horloge_florale&oldid=214579595) [accessed 30 April 2024]. Page Version ID: 214579595
 
-SEYMOUR, R. S., 1998. Physiological temperature regulation by flowers of the sacred lotus. Philosophical Transactions of the Royal Society B: Biological Sciences. Vol. 353, no. 1371, pp. 935–943. DOI 10.1098/rstb.1998.0258. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1692294/
+SEYMOUR, R. S., 1998. Physiological temperature regulation by flowers of the sacred lotus. Philosophical Transactions of the Royal Society B: Biological Sciences. Vol. 353, no. 1371, pp. 935–943. DOI [10.1098/rstb.1998.0258](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1692294/).
 
-Seymour, Roger & Schultze-Motel, Paul & Lamprecht, Ingolf. (1998). Heat production by sacred lotus flowers depends on ambient temperature, not light cycle. Journal of Experimental Botany. 49. 10.1093/jexbot/49.324.1213. https://www.researchgate.net/publication/31260385_Heat_production_by_sacred_lotus_flowers_depends_on_ambient_temperature_not_light_cycle
+Seymour, Roger & Schultze-Motel, Paul & Lamprecht, Ingolf. (1998). Heat production by sacred lotus flowers depends on ambient temperature, not light cycle. Journal of Experimental Botany. 49. 10.1093/jexbot/49.324.1213. [https://www.researchgate.net/publication/31260385_Heat_production_by_sacred_lotus_flowers_depends_on_ambient_temperature_not_light_cycle](https://www.researchgate.net/publication/31260385_Heat_production_by_sacred_lotus_flowers_depends_on_ambient_temperature_not_light_cycle)
 
-SEYMOUR, Roger S. and SCHULTZE–MOTEL, Paul, 1998. Physiological temperature regulation by flowers of the sacred lotus. Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences. Vol. 353, no. 1371, pp. 935–943. DOI 10.1098/rstb.1998.0258. https://royalsocietypublishing.org/doi/epdf/10.1098/rstb.1998.0258
+SEYMOUR, Roger S. and SCHULTZE–MOTEL, Paul, 1998. Physiological temperature regulation by flowers of the sacred lotus. Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences. Vol. 353, no. 1371, pp. 935–943. DOI [10.1098/rstb.1998.0258](https://royalsocietypublishing.org/doi/epdf/10.1098/rstb.1998.0258).
 
 <footer>
     <br />
