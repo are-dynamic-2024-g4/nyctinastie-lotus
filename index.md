@@ -179,6 +179,8 @@ Seymour, Roger & Schultze-Motel, Paul & Lamprecht, Ingolf. (1998). Heat producti
 SEYMOUR, Roger S. and SCHULTZE–MOTEL, Paul, 1998. Physiological temperature regulation by flowers of the sacred lotus. Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences. Vol. 353, no. 1371, pp. 935–943. DOI 10.1098/rstb.1998.0258. https://royalsocietypublishing.org/doi/epdf/10.1098/rstb.1998.0258
 
 <footer>
+    <br />
+    <hr />
     <p>
         &copy; 2024 
         <span lang="fr">Copyright par un groupe d'étudiant de la Sorbonne Université (recherches expérimentales)</span>
