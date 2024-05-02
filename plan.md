@@ -12,7 +12,7 @@ Nyctinasty, also known as sleep movement, is a fascinating phenomenon that affec
         <td>Rachel AIT TALEB</td>
         <td>Liza BOUKRIF</td>
         <td>Lena LALAOUI</td>
-        <td>JDavid MANEGABE</td>
+        <td>David MANEGABE</td>
     </tr>
 </table>
 
