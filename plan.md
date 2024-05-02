@@ -1,3 +1,22 @@
+# Nyctinastie
+
+La Nyctinastie est une forme de mouvement nastic, également appelé le mouvement de veille et de sommeil, dans le cadre de notre étude nous nous concentrons sur les fleurs.
+Notre objectif est d'étudier la réaction des fleurs face à ce  phénomène et de mieux comprendre les mécanismes biologiques et environnementaux qui influencent ces mouvements nocturnes.
+## English version
+
+Nyctinasty, also known as sleep movement, is a fascinating phenomenon that affects many floral species.In our study, we focus on the flower's reactions to this phenomenon. Our goal is to better understand the biological and environmental mechanisms that influence these nocturnal movements.
+
+## Présentation de l'équipe
+<table>
+    <tr>
+        <td>Rachel AIT TALEB</td>
+        <td>Liza BOUKRIF</td>
+        <td>Lena LALAOUI</td>
+        <td>JDavid MANEGABE</td>
+    </tr>
+</table>
+
+
 ##  Notre Thématique :
 La nyctinastie, un phénomène biologique fascinant, se manifeste chez de nombreuses plantes, entraînant des mouvements de fermeture et d'ouverture de leurs organes en réponse à des changements de luminosité et d'autres facteurs environnementaux. Dans le cadre de notre recherche, nous nous concentrons sur la compréhension et la modélisation de ces mécanismes chez le Lotus Sacré. Notre objectif est d'approfondir notre connaissance des processus complexes qui sous-tendent ces réponses adaptatives et de contribuer ainsi à l'avancement de la biologie végétale.
 
