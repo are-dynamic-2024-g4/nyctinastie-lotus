@@ -15,7 +15,9 @@ Pourquoi et comment le Lotus Sacré modifie-t-il le mouvement de ses pétales en
 Voici les tableaux de données représentant les résultats de notre étude :
 
  1- La variation de la vitesse et du taux d'ouverture en fonction de l'heure :
- <img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/blob/main/VTH.png" alt="Logo of My Website" width="550" height="400"> 
+ <img src="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/blob/main/VTH.png" alt="Logo of My Website" width="550" height="450"> 
+
+
 
 
 
