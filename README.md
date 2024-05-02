@@ -50,7 +50,7 @@ La modélisation se concentre sur la simulation des réactions nyctinastiques du
 
 Pour débuter votre exploration de la nyctinastie chez le Lotus Sacré, téléchargez le notebook Jupyter contenant nos fonctions et outils de modélisation. Vous trouverez le lien de téléchargement dans le dossier principal de notre dépôt GitHub.
 
-### Consulter notre blog : <a href="https://github.com/are-dynamic-2024-g4/nyctinastie-lotus/blob/main/plan.md">C'est ici !</a>
+### Consulter notre blog : <a href="https://are-dynamic-2024-g4.github.io/nyctinastie-lotus/">C'est ici !</a>
 
 
 
